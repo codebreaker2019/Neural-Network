@@ -19,3 +19,5 @@ Link: https://www.dsebd.org/data_archive.php
 Basically it's true that neural network never do well performance on stock data! But it really does not matter that your model do well or not on stock dataset, Your target will explore stock dataset on neural network . I can ensure you that you will learn a lots from exploring this work !!
 
 Special note: I have attached some documents and text for anyone's better understanding on my coding file ! 
+
+#### Please check my final implementation section for fully connected neural network implementtaion.
